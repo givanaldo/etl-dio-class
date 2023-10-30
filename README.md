@@ -1,3 +1,6 @@
 # Projeto de implementação de um ETL
 
-O projeto recebe um arquivo CSV como entrada, carrega em um Dataframe, aplica uma trandformação nesse Dataframe e, por fim, gera uma planilha e um JSON.
+1. O projeto recebe um arquivo CSV como entrada
+2. Carrega os dados em um Dataframe
+3. Aplica uma transformação nesse Dataframe e
+4. Gera uma planilha e um JSON.
